@@ -4,3 +4,4 @@ git tracks changes.
 vs code change 1.
 change 2.
 change 3.
+creating a new branch is quick.
